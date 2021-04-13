@@ -84,5 +84,10 @@ class SpringbootOrderRabbitmqProducerApplicationTests {
 
 
     }
+    
+   @Test
+    public void testone(){
+        String abc = "测试git";
+    }
 
 }
