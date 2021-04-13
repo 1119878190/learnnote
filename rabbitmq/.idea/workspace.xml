@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a771eabd-bf91-4e8b-93dd-3035e705dac9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\maven_repository" />
+        <option name="mavenHome" value="D:/develop/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qpgaJe5yj2qZRxFMZzFWRJH4jI" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.135" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.rabbitmq.work.lunxun" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaWorksapce\rabbitmq\src\main\java\com\demo\rabbitmq\work\fair" />
+      <recent name="F:\IdeaWorksapce\rabbitmq\src\main\java\com\demo\rabbitmq\all" />
+      <recent name="F:\IdeaWorksapce\rabbitmq\src\main\java\com\demo\rabbitmq\routing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestDemo">
+    <configuration name="Producer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.rabbitmq.work.fair.Producer" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.rabbitmq.work.fair.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.rabbitmq.work.lunxun.Producer" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.rabbitmq.work.lunxun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.rabbitmq.direct.TestDemo" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.rabbitmq.direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.rabbitmq.work.fair.Work1" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.rabbitmq.work.fair.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.rabbitmq.work.fair.Work2" />
+      <module name="rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.rabbitmq.work.fair.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.Producer (1)" />
+        <item itemvalue="Application.Work2 (1)" />
+        <item itemvalue="Application.Work1 (1)" />
+        <item itemvalue="Application.Producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a771eabd-bf91-4e8b-93dd-3035e705dac9" name="Default Changelist" comment="" />
+      <created>1617782007932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617782007932</updated>
+      <workItem from="1617782011364" duration="9119000" />
+      <workItem from="1617853136017" duration="7428000" />
+      <workItem from="1617871044639" duration="163000" />
+      <workItem from="1617871988326" duration="1361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1617808141514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617808141514" />
+    <state x="690" y="205" key="FileChooserDialogImpl" timestamp="1617871175287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="205" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617871175287" />
+    <state width="1867" height="264" key="GridCell.Tab.0.bottom" timestamp="1617870658492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617870658492" />
+    <state width="1867" height="264" key="GridCell.Tab.0.center" timestamp="1617870658491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617870658491" />
+    <state width="1867" height="264" key="GridCell.Tab.0.left" timestamp="1617870658491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617870658491" />
+    <state width="1867" height="264" key="GridCell.Tab.0.right" timestamp="1617870658491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617870658491" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1617870787529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617870787529" />
+    <state x="161" y="160" key="new project wizard" timestamp="1617871205660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="160" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1617871205660" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1617868997822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617868997822" />
+  </component>
+</project>
