@@ -85,4 +85,9 @@ class SpringbootOrderRabbitmqProducerApplicationTests {
 
     }
 
+    @Test
+    public void testGit(){
+        System.out.println("测试git");
+    }
+
 }
