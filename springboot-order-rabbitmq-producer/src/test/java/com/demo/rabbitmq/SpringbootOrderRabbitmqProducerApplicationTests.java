@@ -58,5 +58,12 @@ class SpringbootOrderRabbitmqProducerApplicationTests {
         System.out.println("消息发送成功");
     }
 
-
+    
+    
+    @Test
+    public void testpull()
+    {
+       String abc = "cccc";
+    }
+        
 }
