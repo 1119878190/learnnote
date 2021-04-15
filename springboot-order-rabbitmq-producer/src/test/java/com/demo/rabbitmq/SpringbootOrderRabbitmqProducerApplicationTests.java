@@ -59,4 +59,8 @@ class SpringbootOrderRabbitmqProducerApplicationTests {
     }
 
 
+    @Test
+    public void testiead(){
+        System.out.println("这是本地即将跟新的方法");
+    }
 }
