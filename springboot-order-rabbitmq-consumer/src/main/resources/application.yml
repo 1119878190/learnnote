@@ -2,11 +2,11 @@ server:
   port: 8081
 
 
-spring:
+spring: 
   rabbitmq:
-    host: 192.168.0.107
-    username: guest
-    password: guest
+    host: 47.101.50.185
+    username: admin
+    password: admin
     port: 5672
     virtual-host: /
 
