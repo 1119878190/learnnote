@@ -1,13 +1,10 @@
-server:
-  port: 8081
-
-
-spring: 
+spring:
   rabbitmq:
-    host: 47.101.50.185
-    username: admin
-    password: admin
+    addresses: 47.101.50.185
     port: 5672
-    virtual-host: /
+    username: guest
+    password: guest
+server:
+  port: 8085
 
 

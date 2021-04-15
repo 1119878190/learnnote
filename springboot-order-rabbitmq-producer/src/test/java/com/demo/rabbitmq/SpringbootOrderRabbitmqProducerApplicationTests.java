@@ -59,40 +59,4 @@ class SpringbootOrderRabbitmqProducerApplicationTests {
     }
 
 
-
-    @Test
-    void testto(){
-        int[] arr = {1,2,2,2,3,2,2,2,2};
-
-        Map<Integer,Integer> map = new HashMap<>();
-        for (int item : arr) {
-            if (map.containsKey(item)){
-                int temp = map.get(item);
-                map.put(item,temp+1);
-            }else {
-                map.put(item,1);
-            }
-        }
-        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-            int key = entry.getKey();
-            int value = entry.getValue();
-            if (value > arr.length/2){
-                System.out.println(key+":"+value);
-            }
-
-        }
-
-
-    }
-    
-   @Test
-    public void testone(){
-        String abc = "测试git";
-    }
-
-    @Test
-    public void testGit(){
-        System.out.println("测试git");
-    }
-
 }
