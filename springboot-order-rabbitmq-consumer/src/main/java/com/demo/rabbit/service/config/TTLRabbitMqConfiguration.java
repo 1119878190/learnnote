@@ -38,6 +38,7 @@ public class TTLRabbitMqConfiguration {
         args.put("x-message-ttl",5000);
         args.put("x-dead-letter-exchange","dead_direct_exchange");//put(key,死信队列交换机名字)
         args.put("x-dead-letter-routing-key","dead");//死信队列的路由key，如果没有可以不用配置
+        args.put("x-max-length",5);//设置队列的大小  当队列的数据达到了最大,后面的数据进入死信队列中
         return new Queue("ttl.fanout.queue",true,false,false,args);
     }
 
